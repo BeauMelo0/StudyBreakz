@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Unblocked Games Hub</title>
+  <style>
+    body { font-family: Arial; background: #222; color: #fff; text-align: center; }
+    a { color: #0f0; display: block; margin: 10px; font-size: 24px; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Your Custom Game Site!</h1>
+  <p>Choose a game to play:</p>
+  <a href="games/snake.html">Snake</a>
+  <a href="games/tetris.html">Tetris</a>
+  <a href="games/flappy.html">Flappy Bird</a>
+</body>
+</html>
+
+       <!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Snake Game</title></head>
+<body>
+  <h1>Snake Game</h1>
+  <iframe src="https://playsnake.org/" width="600" height="400"></iframe>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Tetris Game</title></head>
+<body>
+  <h1>Tetris Game</h1>
+  <iframe src="https://tetris.com/play-tetris" width="600" height="400"></iframe>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Flappy Bird</title></head>
+<body>
+  <h1>Flappy Bird</h1>
+  <iframe src="https://flappybird.io/" width="600" height="400"></iframe>
+</body>
+</html>
